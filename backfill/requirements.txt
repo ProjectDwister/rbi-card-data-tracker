@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+lxml
+html5lib
+openpyxl
+xlrd
+urllib3
